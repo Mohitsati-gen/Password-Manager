@@ -2,11 +2,6 @@
 
 This repository contains two versions of my Password Manager app — one that stores data in LocalStorage and another that uses MongoDB with Express.js as the backend.
 
-📁 Folder Structure
-Password-Manager/
-├── PassMan/               → Frontend app (LocalStorage version)
-├── PassMan Mongo/         → Frontend + Backend app (MongoDB version)
-
 🧠 Overview
 Version	Description	Tech Stack
 PassMan (LocalStorage)	Password Manager built entirely on the frontend using browser’s localStorage for data persistence.	React, Tailwind CSS, Toastify
