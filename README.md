@@ -46,7 +46,7 @@ npm run dev
 🌐 API Endpoints (Mongo Version)
 
 
-Method	  Endpoint	    Description
+Method	        Endpoint	         Description
 
 GET       	/	       Fetch all saved passwords
 
