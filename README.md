@@ -8,9 +8,14 @@ PassMan (LocalStorage)	Password Manager built entirely on the frontend using bro
 PassMan Mongo	Full-stack Password Manager connected to MongoDB using Express backend.	React, Express.js, MongoDB, Node.js, Toastify
 ⚙️ Setup Instructions
 🧩 For LocalStorage version (PassMan)
+
+
 cd "PassMan"
+
 npm install
+
 npm run dev
+
 
 🧠 For MongoDB version (PassMan Mongo)
 cd "PassMan Mongo/backend"
