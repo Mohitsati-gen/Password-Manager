@@ -6,10 +6,10 @@ This repository contains two versions of my Password Manager app — one that st
 
 Version	Description	Tech Stack
 
-PassMan (LocalStorage)	Password Manager built entirely on the frontend using browser’s localStorage for data persistence.	React, Tailwind CSS, Toastify
+PassMan (LocalStorage) =	Password Manager built entirely on the frontend using browser’s localStorage for data persistence.	React, Tailwind CSS, Toastify
 
 
-PassMan Mongo	Full-stack Password Manager connected to MongoDB using Express backend.	React, Express.js, MongoDB, Node.js, Toastify
+PassMan Mongo =	Full-stack Password Manager connected to MongoDB using Express backend.	React, Express.js, MongoDB, Node.js, Toastify
 
 
 ⚙️ Setup Instructions
